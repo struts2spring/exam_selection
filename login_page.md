@@ -12,7 +12,7 @@ Three times failure of login should come with __I am not a robot__**.
 
 
 # Registration / Sign up
-There would be a new registartion / signup page. User is supose to complete with minimal information .
+There would be a new registartion / signup page. User is supose to complete with minimal information . A successful registaion will send an email to user mailbox and his mobile number. 
 
-First name
-Last name
+1. First name
+2. Last name
